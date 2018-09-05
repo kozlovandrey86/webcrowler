@@ -1,8 +1,0 @@
-c:\users\andrew\documents\visual studio 2017\Projects\WebCrowler\WebCrowler\obj\Debug\WebCrowler.csprojResolveAssemblyReference.cache
-c:\users\andrew\documents\visual studio 2017\Projects\WebCrowler\WebCrowler\bin\Debug\WebCrowler.exe.config
-c:\users\andrew\documents\visual studio 2017\Projects\WebCrowler\WebCrowler\bin\Debug\WebCrowler.exe
-c:\users\andrew\documents\visual studio 2017\Projects\WebCrowler\WebCrowler\bin\Debug\WebCrowler.pdb
-c:\users\andrew\documents\visual studio 2017\Projects\WebCrowler\WebCrowler\obj\Debug\WebCrowler.exe
-c:\users\andrew\documents\visual studio 2017\Projects\WebCrowler\WebCrowler\obj\Debug\WebCrowler.pdb
-C:\Users\Andrew\Documents\Visual Studio 2017\Projects\WebCrowler\WebCrowler\bin\Debug\log4net.dll
-C:\Users\Andrew\Documents\Visual Studio 2017\Projects\WebCrowler\WebCrowler\bin\Debug\log4net.xml
